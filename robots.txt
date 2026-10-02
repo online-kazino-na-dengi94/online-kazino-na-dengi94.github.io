@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://online-kazino-na-dengi94.github.io/sitemap.xml
